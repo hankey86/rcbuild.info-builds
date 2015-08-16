@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Storm emax 280",
+    "esc": "DYS/BLHeli-20A-ESC-500Hz-2-4s-(OPTO-SN20)",
+    "motor": "EMAX/MT2206-1900KV",
+    "fc": "ReadyToFlyQuads/CC3D",
+    "prop": [
+      "Gemfan/6x3-CFN-MR"
+    ],
+    "arm": "",
+    "battery": [
+      "Dinogy/3S-1800mAh-30C"
+    ],
+    "osd": "",
+    "receiver": "",
+    "flightcam": "UnknownManufacturer/multirotorsuperstore/Mini-Sony-Super-HAD-CCD-600TVL-IR-Sensitive",
+    "hqcam": "SpyTec/Mobius-Action-Cam-Wide-Angle",
+    "videotx": "FatShark/5.8GHz-250mW",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
