@@ -9,10 +9,10 @@
     ],
     "arm": "",
     "battery": [
-      "Dinogy/3S-1800mAh-30C"
+      "Lumenier/1800mAh-3s-35c-Lipo"
     ],
     "osd": "",
-    "receiver": "",
+    "receiver": "Devo 7 rx7",
     "flightcam": "UnknownManufacturer/multirotorsuperstore/Mini-Sony-Super-HAD-CCD-600TVL-IR-Sensitive",
     "hqcam": "SpyTec/Mobius-Action-Cam-Wide-Angle",
     "videotx": "FatShark/5.8GHz-250mW",
